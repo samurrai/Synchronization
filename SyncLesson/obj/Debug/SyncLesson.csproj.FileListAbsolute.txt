@@ -1,0 +1,7 @@
+C:\Users\ШадикьянР\source\repos\SyncLesson\SyncLesson\bin\Debug\SyncLesson.exe.config
+C:\Users\ШадикьянР\source\repos\SyncLesson\SyncLesson\bin\Debug\SyncLesson.exe
+C:\Users\ШадикьянР\source\repos\SyncLesson\SyncLesson\bin\Debug\SyncLesson.pdb
+C:\Users\ШадикьянР\source\repos\SyncLesson\SyncLesson\obj\Debug\SyncLesson.csprojAssemblyReference.cache
+C:\Users\ШадикьянР\source\repos\SyncLesson\SyncLesson\obj\Debug\SyncLesson.csproj.CoreCompileInputs.cache
+C:\Users\ШадикьянР\source\repos\SyncLesson\SyncLesson\obj\Debug\SyncLesson.exe
+C:\Users\ШадикьянР\source\repos\SyncLesson\SyncLesson\obj\Debug\SyncLesson.pdb
